@@ -4,5 +4,8 @@ public class Sai
 	{
 		System.out.println("hello");
 		System.out.println("welcome");
+ 		System.out.println("hi");
+		System.out.println("bye");
+		
 	}
 }
